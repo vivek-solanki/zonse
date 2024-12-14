@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d88bd808-f179-4589-a3bf-d254aed2e06c"
+      }
+    },
+    "owner": "vivek-solanki"
   }
 }
